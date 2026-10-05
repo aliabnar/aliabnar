@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.zip
+private-review/
+private-sources/
+working-drafts/
