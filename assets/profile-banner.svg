@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="400" viewBox="0 0 1400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Ali Abnar — Product-minded software engineering</title>
+  <desc id="desc">Ali Abnar. Business workflows, thoughtfully engineered. Product thinking, full-stack development, and automation.</desc>
+  <rect width="1400" height="400" fill="#101c2d"/>
+  <path d="M1010 0H1400V400H810Z" fill="#16263b"/>
+  <rect x="76" y="63" width="48" height="5" rx="2.5" fill="#55dcc4"/>
+  <text x="76" y="154" fill="#f3f7fc" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="80" letter-spacing="-2">Ali Abnar</text>
+  <text x="80" y="213" fill="#afc1d5" font-family="Arial, Helvetica, sans-serif" font-size="30">Product-minded software engineering</text>
+  <text x="80" y="285" fill="#e3edf7" font-family="Arial, Helvetica, sans-serif" font-size="29">Business workflows, thoughtfully engineered.</text>
+  <text x="80" y="345" fill="#71decd" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.5">PRODUCT THINKING  /  FULL-STACK DEVELOPMENT  /  AUTOMATION</text>
+  <g fill="none" stroke="#36506c" stroke-width="2">
+    <rect x="1052" y="91" width="90" height="90" rx="18"/>
+    <rect x="1172" y="91" width="90" height="90" rx="18"/>
+    <rect x="1052" y="211" width="90" height="90" rx="18"/>
+    <rect x="1172" y="211" width="90" height="90" rx="18"/>
+  </g>
+  <rect x="1074" y="113" width="46" height="46" rx="10" fill="#56dcc4"/>
+  <rect x="1194" y="233" width="46" height="46" rx="10" fill="#688bdf"/>
+  <path d="M1142 136H1172M1097 181V211M1217 181V211M1142 256H1172" stroke="#728da9" stroke-width="2" fill="none"/>
+  <circle cx="1217" cy="136" r="12" fill="#acbfd4"/>
+  <circle cx="1097" cy="256" r="12" fill="#acbfd4"/>
+</svg>
